@@ -12,10 +12,10 @@ Cyber Security undergraduate at Asia Pacific University (APU), focused on offens
 
 | Project | Description |
 |---|---|
-| [Authorized Web App Pentest](../01-authorized-web-app-pentest) | Full pentest of a Laravel app — WAF fingerprinting, `.env` exposure, custom TLS-based bypass tooling |
-| [Home Network Security Audit](../02-home-network-security-audit) | Full subnet audit with `nmap`, IoT exposure findings, and a hardening plan |
-| [Bug Bounty Recon Workflow](../03-bug-bounty-recon-toolkit) | Subfinder → httpx → Katana → GAU → Nuclei recon chain for bug bounty research |
-| [Python Security Tooling](../04-python-security-tooling) | Netcat clone and TCP port scanner built from *Black Hat Python* |
+| [Authorized Web App Pentest](../web-app-pentest) | Full pentest of a Laravel app — WAF fingerprinting, `.env` exposure, custom TLS-based bypass tooling |
+| [Home Network Security Audit](../home-network-security-audit) | Full subnet audit with `nmap`, IoT exposure findings, and a hardening plan |
+| [Bug Bounty Recon Workflow](..bug-bounty-recon-toolkit) | Subfinder → httpx → Katana → GAU → Nuclei recon chain for bug bounty research |
+| [Python Security Tooling](../python-security-tooling) | Netcat clone and TCP port scanner built from *Black Hat Python* |
 
 ## Skills
 
