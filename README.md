@@ -13,9 +13,9 @@ Cyber Security undergraduate at Asia Pacific University (APU), focused on offens
 | Project | Description |
 |---|---|
 |  [Web App Pentest](https://github.com/KAYES-AHMED/web-app-pentest) | Full pentest of a Laravel app — WAF fingerprinting, `.env` exposure, custom TLS-based bypass tooling  |
-| [Home Network Security Audit](../home-network-security-audit) | Full subnet audit with `nmap`, IoT exposure findings, and a hardening plan |
-| [Bug Bounty Recon Workflow](..bug-bounty-recon-toolkit) | Subfinder → httpx → Katana → GAU → Nuclei recon chain for bug bounty research |
-| [Python Security Tooling](../python-security-tooling) | Netcat clone and TCP port scanner built from *Black Hat Python* |
+| [Home Network Security Audit](https://github.com/KAYES-AHMED/home-network-security-audit) | Full subnet audit with `nmap`, IoT exposure findings, and a hardening plan |
+| [Bug Bounty Recon Workflow](https://github.com/KAYES-AHMED/bug-bounty-recon-toolkit) | Subfinder → httpx → Katana → GAU → Nuclei recon chain for bug bounty research |
+| [Python Security Tooling](https://github.com/KAYES-AHMED/python-security-tooling) | Netcat clone and TCP port scanner built from *Black Hat Python* |
 
 ## Skills
 
